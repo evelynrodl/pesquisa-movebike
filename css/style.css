@@ -55,3 +55,11 @@ p{
     margin-bottom: 1px;
     font-weight: bold;
 }
+
+input, select, textarea{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
